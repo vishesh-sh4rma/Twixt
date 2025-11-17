@@ -1,4 +1,7 @@
 Twixt Game Phase 1 submition:
+Name: Vishesh Sharma
+Roll Number: 2025113012
+
 This repo includes 6 files:
 1. Makefile - Compiles all the .c and .h files.
 2. board.c - Has functions to initialize the board at the start of the game and place pegs at valid positions. 
